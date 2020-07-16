@@ -2,7 +2,7 @@
 > General Kenobi ? 
 
 I'm a french software engineer, working in Luxembourg  </br>
-:book: I graduated Telecom Nancy, a french engineering school in Nancy/ 
+:book: I graduated Telecom Nancy, a french engineering school in Nancy
 
 - 🔭 I’m currently working on full stack development 
 - 🌱 I’m constantly learning new things. Currently, I'm learning Flutter and it's awesome ! Trust me, you should give it a try. 
